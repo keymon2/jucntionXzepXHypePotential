@@ -14,6 +14,12 @@ Template for ZEP Script app.
  ┗ yarn.lock
 ```
 
+```
+https://zep.us/play/y1zwaW
+이 맵에서 미니게임으로 로드 한뒤
+게임을 시작하면 q를 누르면 주사위가 굴리시면서 보드게임을 하면됩니다.
+```
+
 - `📂res`: Put all the resources(images, sounds) of the app inside this folder.
 - `babel.config.js`: Babel configuration file.
 - `main.ts`: Main entry file of the app. The name of this file should not be changed.
@@ -39,7 +45,7 @@ Archive the project by running the following command. You can upload the generat
 yarn archive
 ```
 
-### Publish the app 
+### Publish the app
 
 Publish your app by running the following command. You have to fill in configuration file(`zep-script.json`) before running this command.
 
@@ -58,4 +64,5 @@ yarn publish
 
 - [English](https://docs.zep.us/zep-script)
 - [Korean](https://docs-kr.zep.us/zep-script)
+
 # jucntionXzepXHypePotential
